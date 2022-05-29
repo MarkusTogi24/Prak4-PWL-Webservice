@@ -1,0 +1,27 @@
+tugas Praktikum 6 & 7
+- membuat automation testing di framework webservice 
+masing masing lalu di setting pada github action 
+pada repo Prak4-PWL-Webservice
+
+- deploy hasil project (Jquery dan Portofolio) pada webhosting 
+
+format domain Jquery ->> Jquery-Nama.domainWebservice 
+(contoh : Jquery-FikriHalimCh.herokuapp.com)
+
+format domain client-side portofolio ->> Nama.domainWebservice 
+(contoh : FikriHalimCh.herokuapp.com)
+
+format domain server-side portofolio ->> server-nama.domainWebservice
+(contoh : server-FikriHalimCh.herokuapp.com)
+
+Link Pengumpulan : https://bit.ly/Tugas-Prak-PWL
+
+Deadline akhir pengumpulan tugas praktikum 27 Mei 2022 23:59
+toleransi H+2 ( tapi ketika pak habib minta nilai di tanggal 27, yang bakal dikasih
+cuma yang submit sampai tgl 27 aja)
+
+referensi deploy laravel di heroku
+https://betterprogramming.pub/hosting-your-laravel-app-on-heroku-198764167a85
+
+referensi deploy Project reactJS
+https://www.c-sharpcorner.com/article/how-to-deploy-react-application-on-github-pages/
